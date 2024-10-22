@@ -1,3 +1,3 @@
 <?php 
-echo "<Prueba de cambio commit>"
+echo 'Prueba de cambio commit';
 ?>
